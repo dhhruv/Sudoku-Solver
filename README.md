@@ -1,4 +1,23 @@
-<p align='center'><b>Why solve Sudoku by hand, when you can write script to solve them for ya ?!</b></p>
+<p align="center">
+  <img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/thumbnail.png">
+  <h2 align="center" style="margin-top: -4px !important;">Why solve Sudoku by hand, when you can write script to solve them for ya ?!.</h2>
+  <p align="center">
+    <a href="https://github.com/dhhruv/Sudoku-Solver/blob/master/LICENSE">
+      <img src="https://img.shields.io/badge/license-MIT-informational">
+    </a>
+    <a href="https://www.python.org/">
+    	<img src="https://img.shields.io/badge/python-v3.8-informational">
+    </a>
+  </p>
+</p>
+<p align="center">
+	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+</p>
+<p align="center">   
+	<a href="https://dev.to/dhhruv/Sudoku-Solver-download-videos-playlists-in-your-preferred-format-and-quality-4mon">
+    	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>
+</p>
 
 ## Introduction:
 -	Sudoku is one of the most popular logic-based number-placement puzzle game. The literal meaning of "Su-doku" in Japanese is "the number that is single".
