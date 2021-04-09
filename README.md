@@ -18,17 +18,24 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 -	Once the the user finalizes that the inputted number is the correct entry, pressing the enter key will attempt to input the number onto the board. 
 -	Correct answers will be permanently displayed while incorrect answers will be removed. 
 -	Likewise, values can be removed by pressing on the backspace or delete keys.
-![Example 1][4]
+
+<p align="center">
+	<img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/Entering%20Values.gif">
+</p>
 
 -	If at any point the player decides to solve the board, the Spacebar key can be pressed.
 -	This will commence a visual which will demonstrate how the backtracking algorithm works and how it is being applied in order to solve the board.
-![Example 2][5]
+
+<p align="center">
+	<img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/Visualizer.gif">
+</p>
 
 ## Input:
 
 | Keys              | Actions                                                         |
 |-------------------|-----------------------------------------------------------------|
 | `Left Click`      | Selects the Box to enter a value into that cell.                |
+| `Enter`           | Cofirms the Value written on the board.     |
 | `Backspace/Delete`| Deletes the value in that cell.                                 |
 | `Space`           | Solves the Board using the Algorithm.                           |
 | `h`               | Gives a Hint. Displays a random correct value on the board.     |
@@ -46,7 +53,7 @@ git clone
 ```
 **OR**
 Zip Download the Repository and Extract it's contents.
--	Now run the [SudokuGUI]() file directly in your Terminal using
+-	Now run the [SudokuGUI](https://github.com/dhhruv/Sudoku-Solver/blob/master/SudokuGUI.py) file directly in your Terminal using
 ```
 python SudokuGUI.python 
 ```
