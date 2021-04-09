@@ -59,7 +59,7 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 | `Space`           | Solves the Board using the Algorithm.                           |
 | `h`               | Gives a Hint. Displays a random correct value on the board.     |
 
-## Requirements
+## Requirements:
 In order to run the Script, the require **Python & PyGame** and you can install the requirements using:
 ```
 pip install -r requirements.txt
