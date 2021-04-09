@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ## Execution:
 -	Clone this repostory using
 ```
-git clone 
+git clone https://github.com/dhhruv/Sudoku-Solver.git
 ```
 **OR**
 Zip Download the Repository and Extract it's contents.
