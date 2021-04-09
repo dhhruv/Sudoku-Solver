@@ -1,4 +1,4 @@
-**Why solve Sudoku by hand, when you can write script to solve them for ya ?! **
+**Why solve Sudoku by hand, when you can write script to solve them for ya ?!**
 
 ## Introduction:
 -	Sudoku is one of the most popular logic-based number-placement puzzle game. The literal meaning of "Su-doku" in Japanese is "the number that is single".
