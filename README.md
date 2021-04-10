@@ -32,7 +32,7 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 
 ## Working:
 
--	Everytime this Script is executed, a Random Solvable board is created.
+-	Every time this Script is executed, a Random Solvable board is created.
 -	Now, the user can first try to attempt solving it by clicking on the cells and entering values manually. Check the Input Section for the same.
 -	Once the the user finalizes that the inputted number is the correct entry, pressing the enter key will attempt to input the number onto the board. 
 -	Correct answers will be permanently displayed while incorrect answers will be removed. 
@@ -54,7 +54,7 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 | Keys              | Actions                                                         |
 |-------------------|-----------------------------------------------------------------|
 | `Left Click`      | Selects the Box to enter a value into that cell.                |
-| `Enter`           | Cofirms the Value written on the board.     |
+| `Enter`           | Confirms the Value written on the board.     |
 | `Backspace/Delete`| Deletes the value in that cell.                                 |
 | `Space`           | Solves the Board using the Algorithm.                           |
 | `h`               | Gives a Hint. Displays a random correct value on the board.     |
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ```
 
 ## Execution:
--	Clone this repostory using
+-	Clone this repository using
 ```
 git clone https://github.com/dhhruv/Sudoku-Solver.git
 ```
