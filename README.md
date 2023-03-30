@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/thumbnail.png" width="256" height="256">
-  <h2 align="center" style="margin-top: -4px !important;">Why solve Sudoku by hand, when you can write script to solve them for ya ?!</h2>
+  <h2 align="center" style="margin-top: -4px !important;">Sudoku Solver: A Fun and Challenging Way to Exercise Your Brain!</h2>
   <p align="center">
     <a href="https://github.com/dhhruv/Sudoku-Solver/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/license-MIT-informational">
@@ -19,31 +19,28 @@
     </a>
 </p>
 
-## Introduction:
--	Sudoku is one of the most popular logic-based number-placement puzzle game. The literal meaning of "Su-doku" in Japanese is "the number that is single".
 
--	The objective is to fill a nine-by-nine (9x9) grid with digits so that each row, column and 3x3 section contain number between 1 and 9, with each number used once and only once in each section. The Sudoku game players are provided with partially filled grid meant to be solved.
+- Are you ready to put your logical thinking and reasoning skills to the test? Look no further than Sudoku Solver, the ultimate tool for solving Sudoku puzzles quickly and easily.
 
--	To solve sudoku one doesn't require the knowledge of mathematics but require the logic and reasoning. Solving Sudoku Puzzles daily helps with your brain. It improves the concentration and logical thinking. One can look for sudoku puzzles given in Newspapers or can play them online provided by many websites. 
+- Sudoku is a popular number-placement puzzle game that requires players to fill a nine-by-nine grid with digits so that each row, column, and 3x3 section contains numbers between 1 and 9, with each number used once and only once in each section. It's a challenging game that helps improve concentration, memory, and cognitive abilities.
 
-## About:
+- With Sudoku Solver, you don't have to spend hours solving puzzles by hand. Our powerful algorithm solves almost any Sudoku puzzle in seconds, allowing you to move on to more challenging puzzles quickly. Plus, our visualizer feature demonstrates how the backtracking algorithm works, so you can understand the logic behind each solution.
 
-This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizing through the Backtracking Algorithm which is made using the PyGame Library in Python. Ever tried but stucked on Sudoku Puzzles given in newspapers, magazines and online. You can use this script to get its solution instantly and move further.
+## Features:
+- Generates a random, solvable Sudoku board every time the script is executed
+- Easy-to-use GUI for inputting and solving puzzles
+- Visualizer feature demonstrates how the backtracking algorithm works
+- Option to receive hints for tricky puzzles
+- Improves cognitive abilities, including concentration and logical thinking
 
-## Working:
-
--	Every time this Script is executed, a Random Solvable board is created.
--	Now, the user can first try to attempt solving it by clicking on the cells and entering values manually. Check the Input Section for the same.
--	Once the the user finalizes that the inputted number is the correct entry, pressing the enter key will attempt to input the number onto the board. 
--	Correct answers will be permanently displayed while incorrect answers will be removed. 
--	Likewise, values can be removed by pressing on the backspace or delete keys.
+## How to Use:
+To use Sudoku Solver, simply download the repository and run the SudokuGUI.py file. You'll be presented with a random Sudoku board and a GUI for inputting your solutions. Use the left-click to select the box you want to fill, then enter your value and confirm it by pressing the Enter key.
 
 <p align="center">
 	<img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/Entering%20Values.gif">
 </p>
 
--	If at any point the player decides to solve the board, the Spacebar key can be pressed.
--	This will commence a visual which will demonstrate how the backtracking algorithm works and how it is being applied in order to solve the board.
+If you get stuck on a tricky puzzle, press the Spacebar key to solve the board using the backtracking algorithm. You can also receive hints by pressing the "h" key, which will display a random correct value on the board.
 
 <p align="center">
 	<img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/Visualizer.gif">
@@ -60,19 +57,19 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 | `h`               | Gives a Hint. Displays a random correct value on the board.     |
 
 ## Requirements:
-In order to run the Script, the require **Python & PyGame** and you can install the requirements using:
+To run Sudoku Solver, you'll need to have Python and PyGame installed on your system. You can install the necessary requirements using pip:
 ```
 pip install -r requirements.txt
 ```
 
 ## Execution:
--	Clone this repository using
+- Clone this repository using
 ```
 git clone https://github.com/dhhruv/Sudoku-Solver.git
 ```
 **OR**
-Zip Download the Repository and Extract it's contents.
--	Now run the [SudokuGUI](https://github.com/dhhruv/Sudoku-Solver/blob/master/SudokuGUI.py) file directly in your Terminal using
+- Zip Download the Repository and Extract it's contents.
+- Now run the [SudokuGUI](https://github.com/dhhruv/Sudoku-Solver/blob/master/SudokuGUI.py) file directly in your Terminal using
 ```
 python SudokuGUI.py
 ```
@@ -80,5 +77,8 @@ python SudokuGUI.py
 ```
 python3 SudokuGUI.py
 ```
+
+## Conclusion:
+If you're a fan of Sudoku puzzles, Sudoku Solver is the perfect tool to help you solve them quickly and easily. With its powerful algorithm and easy-to-use GUI, you'll be solving puzzles in no time. Plus, Sudoku is a great way to exercise your brain and improve your cognitive abilities, making it a fun and challenging game for people of all ages. So what are you waiting for? Download Sudoku Solver today and start playing!
 
 <p align='center'><b>Made with ❤ by Dhruv Panchal</b></p>
